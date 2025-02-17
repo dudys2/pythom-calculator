@@ -1,4 +1,4 @@
-#Calculadora basica pythom
+ #Calculadora basica pythom
 
 #Menu
 op - int(input("1. Soma \n 2. Menos \n 3. Multiplicaçao \n 4. Divisao \n Existe uma opçao: "))
